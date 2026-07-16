@@ -1,4 +1,3 @@
-````markdown
 # Expense Tracker
 
 ## Project Overview
@@ -104,8 +103,10 @@ Total Expense: ₹250.0
 - Add a graphical user interface (GUI)
 
 ## Author
-**Mahi Sivajothi**
-````
+Mahiuthra
+B.E Computer Science and Engineering
+Aspiring Java Full Stack Developer
+
 
 
 
