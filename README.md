@@ -2,7 +2,7 @@
 # Expense Tracker
 
 ## Project Overview
-This project is a simple Expense Tracker developed using Java. It allows users to record daily expenses, view all recorded expenses, and calculate the total amount spent through a menu-driven console application. The project demonstrates the fundamentals of Object-Oriented Programming (OOP) and Java programming concepts.
+This project is a simple Expense Tracker developed using Java. It allows users to add daily expenses, view all recorded expenses, and calculate the total amount spent through a menu-driven console application. This project is designed to demonstrate the basic concepts of Java and Object-Oriented Programming (OOP).
 
 ## Technologies Used
 - Java
@@ -11,9 +11,8 @@ This project is a simple Expense Tracker developed using Java. It allows users t
 - Add a New Expense
 - View All Expenses
 - Calculate Total Expenses
-- Store Expense Details
+- Store Expense Details Using ArrayList
 - Menu-Driven Console Application
-- Simple and User-Friendly Interface
 
 ## Expense Details
 The application stores the following information:
@@ -33,8 +32,8 @@ ExpenseTracker/
 
 ## How to Run
 
-1. Download or clone the repository.
-2. Open the project in any Java IDE (Eclipse, IntelliJ IDEA, or VS Code).
+1. Clone or download this repository.
+2. Open the project in VS Code, Eclipse, or IntelliJ IDEA.
 3. Compile the Java files:
 
 ```bash
@@ -87,17 +86,26 @@ Enter your choice: 3
 Total Expense: ₹250.0
 ```
 
+## Concepts Used
+- Classes and Objects
+- Constructors
+- ArrayList
+- Methods
+- Loops
+- Switch Case
+- User Input using Scanner
+
 ## Future Enhancements
+- Edit existing expenses
+- Delete expense records
+- Search expenses by category
 - Store expense records in a MySQL database
-- Add edit and delete expense functionality
-- Generate monthly and yearly expense reports
-- Add user login authentication
-- Export expense reports to PDF or Excel
-- Develop a graphical user interface (GUI)
+- Generate monthly expense reports
+- Add a graphical user interface (GUI)
 
 ## Author
 **Mahi Sivajothi**
-
----
-⭐ If you found this project useful, consider giving it a star on GitHub!
 ````
+
+
+
